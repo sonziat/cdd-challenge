@@ -49,7 +49,8 @@ Chaque dossier contient :
 ---
 Tu peux me suivre ici :
 - LinkedIn : [Sonzia Teutsong Marie-Audrey](https://linkedin.com/in/sonzia-teutsong)
-- GitHub : [YSonz](https://github.com/YSonz)
+- LinkedIn Challenge : [CDDChallenge](https://www.linkedin.com/feed/update/urn:li:activity:7379463413032329216/)
+- GitHub : [sonziat](https://github.com/sonziat)
 
 
 ## Prérequis
