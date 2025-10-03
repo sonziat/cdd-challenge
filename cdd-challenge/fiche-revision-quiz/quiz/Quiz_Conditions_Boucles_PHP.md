@@ -1,6 +1,6 @@
 # ❓ Quiz PHP : Conditions et Boucles
 
-## Niveau Débutant
+## Niveau 1
 
 1. Quelle structure utilise-t-on pour tester plusieurs cas distincts ?
 
@@ -22,7 +22,7 @@
    - C) 1
    - D) 5
 
-## Niveau Intermédiaire
+## Niveau 2
 
 4. Quelle boucle s’exécute au moins une fois, même si la condition est fausse ?
 
@@ -51,7 +51,7 @@ for ($i = 1; $i <= 5; $i++) {
    - C) 5
    - D) Erreur
 
-## 🧠 Niveau Avancé
+## Niveau 3
 
 7. Quel algorithme utilise-t-on pour vérifier un nombre premier ?
 
