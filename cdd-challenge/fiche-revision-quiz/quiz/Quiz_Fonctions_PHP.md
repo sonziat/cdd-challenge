@@ -91,4 +91,3 @@ echo somme(somme(1,2), somme(3,4));
 
 **Réponses :**
 
-1. C, 2. C, 3. D, 4. B, 5. B, 6. C, 7. C, 8. A, 9. A
