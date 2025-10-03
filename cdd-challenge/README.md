@@ -4,7 +4,7 @@ Programmation en PHP pas à pas
 
 Bienvenue sur mon dépôt GitHub où je documente mon apprentissage de PHP, pas à pas, à travers des mini-tutoriels pratiques, simples, pensés pour les débutants pour évoluer progressivement.
 > L'idée est d'apprendre PHP en construisant et en partageant des petits bouts de code utiles, sans jargon inutile ni complexité prématurée.
-> Rendre la programmation en PHP accessible aux vrais débutants, avec des mini-tutos simples, clairs, et sans bla-bla.
+> Rendre la programmation accessible aux vrais débutants, avec des mini-tutos simples, clairs, et sans bla-bla.
 
 **Défi personnel : consacrer 3h par jour au code, pendant 30*3 jours.**  
 
