@@ -1,14 +1,23 @@
-# 📘 Formation PHP – Jours 1 à 9
+# Semaine 1 – Introduction à PHP et au Web Dynamique
+Jour 1 – Installation et Introduction
+Contenu :
+Qu’est-ce que PHP ?
+Architecture client/serveur
+Installation de WAMP/XAMPP, VS Code, Git
+Premier script PHP avec echo
 
 Ce parcours permet d’apprendre pas à pas les bases de PHP, avec exercices et corrections.  
 Chaque journée introduit un **thème** précis et se termine par des exercices pratiques.  
 
 ---
 
-## 🔹 Jour 1 – Introduction à PHP
-- Installation XAMPP et VS Code  
-- Création d’un premier fichier `index.php`  
-- Utilisation de `echo`  
+## 🔹 Jour 1 – Installation et Introduction
+Contenu :
+- Qu’est-ce que PHP ?
+- Architecture client/serveur
+- Installation de WAMP/XAMPP, VS Code, Git
+- Premier script PHP avec echo
+Exercices
 - Variables simples (nom, prénom, âge, ville)  
 - Concaténation et affichage  
 - Affichage de la date du jour  
