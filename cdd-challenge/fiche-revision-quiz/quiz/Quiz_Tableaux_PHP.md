@@ -1,6 +1,6 @@
 # ❓ Quiz PHP : Tableaux
 
-## Niveau Débutant
+## Niveau 1
 
 1. Comment accéder au deuxième élément d’un tableau ?
 
@@ -22,7 +22,7 @@
    - C) Ajoute un élément à la fin
    - D) Crée un tableau
 
-## Niveau Intermédiaire
+## Niveau 2
 
 4. Comment fusionner deux tableaux ?
 
@@ -49,7 +49,7 @@ print_r(array_unique($tab));
    - C) contains()
    - D) isset()
 
-## Niveau Avancé
+## Niveau 3
 
 7. Quelle boucle est préférable pour un tableau associatif ?
 
