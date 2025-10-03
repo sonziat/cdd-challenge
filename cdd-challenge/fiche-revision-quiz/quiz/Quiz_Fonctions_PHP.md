@@ -1,6 +1,6 @@
 # ❓ Quiz PHP : Les Fonctions
 
-## Niveau Débutant
+## Niveau 1
 
 1. Que fait `return` dans une fonction ?
 
@@ -29,7 +29,7 @@ salut("Jean");
    - C) exit
    - D) return
 
-## Niveau Intermédiaire
+## Niveau 2
 
 4. Que retourne cette fonction ?
 
@@ -58,7 +58,7 @@ echo test();
    - C) Passe par référence
    - D) Supprime la variable
 
-## Niveau Avancé
+## Niveau 3
 
 7. Quelle est la différence entre `echo` et `return` dans une fonction ?
 
