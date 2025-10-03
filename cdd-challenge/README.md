@@ -1,15 +1,27 @@
 ![Bannière](banner.png)
-# PHP Débutant – Apprendre en codant
+# cdd-challenge - Code 3h par jour
 Programmation en PHP pas à pas
 
-Bienvenue sur mon dépôt GitHub où je documente mon apprentissage de PHP, pas à pas, à travers des mini-tutoriels pratiques, simples, pensés pour les débutants et évoluer progressivement.
-Chaque dossier contient un mini-tutoriel, un exemple de code, et une explication simple.
-
-> Objectif : apprendre PHP en construisant et en partageant des petits bouts de code utiles, sans jargon inutile ni complexité prématurée.
+Bienvenue sur mon dépôt GitHub où je documente mon apprentissage de PHP, pas à pas, à travers des mini-tutoriels pratiques, simples, pensés pour les débutants pour évoluer progressivement.
+> L'idée est d'apprendre PHP en construisant et en partageant des petits bouts de code utiles, sans jargon inutile ni complexité prématurée.
 > Rendre la programmation en PHP accessible aux vrais débutants, avec des mini-tutos simples, clairs, et sans bla-bla.
 
+**Défi personnel : consacrer 3h par jour au code, pendant 30*3 jours.**  
+
+---
+
+## 🎯 Objectifs spécifiques : passer le **CAP**
+
+- C_oder pas à pas, avec rigueur et curiosité
+- A_pprendre PHP en profondeur
+- P_artager tes réussites, mais aussi les bugs
+
+Je vais documenter chaque étape de mon apprentissage, construire des mini-projets concrets (outils, exercices, petites applis), et montrer qu’avec la régularité (même seulement 3h/jour), tout devient possible. 
+
+---
+
 Mon projet principal :
-[👉 php-debutant-tutos](https://github.com/YSonz/php-beginner-tutos)
+[👉 cdd-challenge](https://github.com/sonziat/cdd-challenge)
 
 Ce que tu trouveras :
 - Des mini-exercices PHP pratiques
