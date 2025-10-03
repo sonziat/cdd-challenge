@@ -1,5 +1,5 @@
 ![Bannière](banner.png)
-# cdd-challenge - Code 3h par jour
+# CDDChallenge - Code 3h par jour
 Programmation en PHP pas à pas
 
 Bienvenue sur mon dépôt GitHub où je documente mon apprentissage de PHP, pas à pas, à travers des mini-tutoriels pratiques, simples, pensés pour les débutants pour évoluer progressivement.
