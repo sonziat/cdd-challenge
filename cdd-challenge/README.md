@@ -57,7 +57,6 @@ Tu peux me suivre ici :
 
 Pour tester les fichiers `.php`, tu peux utiliser :
 - Un serveur local comme **[XAMPP](https://www.apachefriends.org/fr/index.html)** ou **[MAMP](https://www.mamp.info/)**
-- Ou un outil en ligne
 - Intaller ton environnement, j'en parle ici : [Environnement de travail](https://github.com/sonziat/cdd-challenge/environnement)
 ---
 
