@@ -47,11 +47,6 @@ Chaque dossier contient :
 > D’autres tutoriels arrivent chaque semaine !
 
 ---
-Tu peux me suivre ici :
-- LinkedIn : [Sonzia Teutsong Marie-Audrey](https://linkedin.com/in/sonzia-teutsong)
-- LinkedIn Challenge : [CDDChallenge](https://www.linkedin.com/feed/update/urn:li:activity:7379463413032329216/)
-- GitHub : [sonziat](https://github.com/sonziat)
-
 
 ## Prérequis
 
@@ -77,6 +72,11 @@ Tu peux :
 - **Mettre une étoile** à ce repo pour suivre ma progression
 - **Contribuer** avec une correction, un exemple ou une amélioration
 - **Me suggérer** un sujet de tutoriel (issues ouvertes !)
+
+Me suivre ici :
+- LinkedIn : [Sonzia Teutsong Marie-Audrey](https://linkedin.com/in/sonzia-teutsong)
+- LinkedIn Challenge : [CDDChallenge](https://www.linkedin.com/feed/update/urn:li:activity:7379463413032329216/)
+- GitHub : [sonziat](https://github.com/sonziat)
 
 ---
 
