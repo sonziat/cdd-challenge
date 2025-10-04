@@ -1,4 +1,4 @@
-# 🧪 Tutoriel 3 – Formulaire simple avec PHP
+# Tutoriel – Formulaire simple avec PHP
 
 ## Objectif
 Envoyer et afficher un prénom via un formulaire.

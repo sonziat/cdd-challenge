@@ -1,4 +1,4 @@
-# 🧪 Tutoriel 4 – Tableaux et `foreach`
+# Tutoriel – Tableaux et `foreach`
 
 ## Objectif
 Afficher une liste avec un tableau PHP.

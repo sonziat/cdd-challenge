@@ -1,4 +1,4 @@
-# Tutoriel 1 – Les Variables en PHP
+# Tutoriel – Les Variables en PHP
 
 ## Objectif
 Comprendre à quoi sert une variable et comment l’utiliser dans PHP.

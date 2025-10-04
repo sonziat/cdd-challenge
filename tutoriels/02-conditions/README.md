@@ -1,4 +1,4 @@
-# 🧪 Tutoriel 2 – Conditions en PHP
+# Tutoriel – Conditions en PHP
 
 ## Objectif
 Faire des choix avec `if`, `else`.
