@@ -1,6 +1,6 @@
 <?php
-$nom="Sonzia T.";
+$nom="Sonzia";
 $prenom = "Audrey";
-$age = 25;
+$age = 34;
 echo "Bonjour, je m'appelle $nom $prenom et j'ai $age ans.";
 ?>

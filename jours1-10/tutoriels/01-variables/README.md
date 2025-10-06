@@ -7,8 +7,8 @@ Comprendre à quoi sert une variable et comment l’utiliser dans PHP.
 
 ```php
 <?php
-$prenom = "Sam";
-$age = 25;
+$prenom = "Samuel";
+$age = 45;
 
 echo "Bonjour, je m'appelle $prenom et j'ai $age ans.";
 ?>
