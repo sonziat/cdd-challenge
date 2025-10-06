@@ -82,9 +82,9 @@ Me suivre ici :
 
 ## Licence
 
-[CC-by-nc](LICENSE) – Utilise ce contenu librement, mentionne la source si tu le partages.
+[CC-by-nc-sa](LICENSE) – Utilise ce contenu librement, mentionne la source si tu le partages.
 
-https://creativecommons.org/licenses/by-nc/4.0/deed.fr
+Obligations légales : https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr
 
 ---
 
