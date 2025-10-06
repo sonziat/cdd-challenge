@@ -39,10 +39,10 @@ Chaque dossier contient :
 
 | # | Sujet                              | Lien                       |
 |---|------------------------------------|----------------------------|
-| 1 | Variables                          | [`01-variable`](tutoriels/01-variable) |
-| 2 | Conditions `if / else`             | [`02-conditions`](tutoriels/02-conditions) |
-| 3 | Formulaire + `$_POST`              | [`03-formulaire-post`](tutoriels/03-formulaire-post) |
-| 4 | Tableaux + boucle `foreach`        | [`04-tableau-foreach`](tutoriels/04-tableau-foreach) |
+| 1 | Variables                          | [`01-variable`](jours1-10/tutoriels/01-variable) |
+| 2 | Conditions `if / else`             | [`02-conditions`](/jours1-10/tutoriels/02-conditions) |
+| 3 | Formulaire + `$_POST`              | [`03-formulaire-post`](/jours1-10/tutoriels/03-formulaire-post) |
+| 4 | Tableaux + boucle `foreach`        | [`04-tableau-foreach`](/jours1-10/tutoriels/04-tableau-foreach) |
 
 > D’autres tutoriels arrivent chaque semaine !
 
