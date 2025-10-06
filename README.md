@@ -59,7 +59,7 @@ Pour tester les fichiers `.php`, tu peux utiliser :
 
 ## Pourquoi ce dépôt ?
 
-Je suis passionné par la programmation PHP et j’ai décidé de documenter mon apprentissage publiquement pour :
+Je suis passionnée par la programmation PHP et j’ai décidé de documenter mon apprentissage publiquement pour :
 - Garder une trace de mes progrès
 - Aider d’autres débutants à ne pas se décourager
 - Créer une base simple pour apprendre PHP pas à pas
