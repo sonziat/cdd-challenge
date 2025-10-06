@@ -43,7 +43,7 @@ Chaque dossier contient :
 | 2 | Conditions `if / else`             | [`02-conditions`](/jours1-10/tutoriels/02-conditions) |
 | 3 | Boucles `for - while -etc.`             | [`03-boucles`](/jours1-10/tutoriels/03-boucles) |
 | 4 | Tableaux `array()`        | [`04-tableau`](/jours1-10/tutoriels/04-tableaux) |
-| 3 | Formulaire + `$_POST`              | [`05-formulaire-post`](/jours1-10/tutoriels/05-formulaire-post) |
+| 3 | Formulaire + `$_POST`              | [`05-formulaire-post`](/jours1-10/tutoriels/05-formulaires-post) |
 
 
 > D’autres tutoriels arrivent chaque semaine !
